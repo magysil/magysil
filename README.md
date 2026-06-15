@@ -41,7 +41,8 @@
 
 🔹 **[QA Saucedemo](https://github.com/magysil/QA-Saucedemo)** – Automatización E2E con Cypress (login, carrito, checkout)  
 🔹 **[Cowork Social - QA](https://github.com/magysil/cowork-social/tree/main/qa)** – Plan de pruebas + casos de prueba + reporte de bugs  
-🔹 **[API Testing Ecommerce](https://github.com/magysil/api-testing-ecommerce)** – Pruebas de API REST con Postman, Newman y reportes HTML
+🔹 **[API Testing Ecommerce](https://github.com/magysil/api-testing-ecommerce)** – Pruebas de API REST con Postman, Newman y reportes HTML  
+🔹 **[Proyectos Frontend](https://github.com/magysil/frontend-modernization-portfolio)** – Portfolio de proyectos Frontend utilizando metodologías modernas, Bootstrap 5.3.3 y JavaScript ES6+
 
 ---
 
