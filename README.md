@@ -1,109 +1,68 @@
-<h1 align="center">🧪 Magally Silva | QA Engineer</h1>
+# 🧪 Magally Silva | QA Engineer
 
-<p align="center">
-  <strong>QA Funcional | Testing Manual & Automation | API Testing</strong>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magallys/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:magalysilvabello@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/magysil)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/magallys/">
-    <img src="https://img.shields.io/badge/LinkedIn-Magally%20Silva-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:magalysilvabello@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 
 ---
 
 ## 🧠 Sobre mí
 
-💻 Ingeniera en Sistemas enfocada en **Quality Assurance**  
+💻 **Ingeniera en Sistemas** enfocada en **Quality Assurance**  
 🔍 Apasionada por asegurar la calidad de aplicaciones web  
-🧪 Experiencia en testing funcional, exploratorio y automatizado  
-📊 Background en desarrollo Full Stack y análisis de datos  
+🧪 Experiencia en **testing funcional, exploratorio y automatizado**  
+📊 Background en **desarrollo Full Stack** y análisis de datos  
+🎯 **Diferencial**: Entiendo el código y el testing. Hablo el idioma de los devs y el de los usuarios.
 
-Me enfoco en entender el producto desde la perspectiva del usuario y asegurar entregas confiables, funcionales y de alto valor.
+> "La calidad no es un acto, es un hábito."
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧪 Testing Skills
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-0A66C2?style=flat-square)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-Advanced-blue?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-Advanced-blue?style=flat-square)
-![E2E Testing](https://img.shields.io/badge/E2E%20Testing-Advanced-blue?style=flat-square)
-
-### ⚙️ Automation & Tools
-![Cypress](https://img.shields.io/badge/Cypress-Automation-17202C?style=flat-square&logo=cypress)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-0052CC?style=flat-square&logo=jira)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
-
-### 💻 Tech Background
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql)
+| Testing | Automatización | Desarrollo | Bases de Datos |
+|:-------:|:-------------:|:----------:|:-------------:|
+| Manual Testing | Cypress | JavaScript | PostgreSQL |
+| Functional Testing | Postman | React | SQL |
+| Exploratory Testing | Git/GitHub | Node.js | - |
+| Regression Testing | Jira | HTML/CSS | - |
+| API Testing | Newman | Boostrap | - |
 
 ---
 
-## 🚀 Proyectos QA Destacados
+## 🚀 Proyectos Destacados (Pinned)
 
-### 🔹 Cowork Social - QA Challenge
-📌 Test Plan + Test Cases + Exploratory Testing  
-📌 Reporte y seguimiento de bugs  
-📌 Automatización de flujos críticos con Cypress  
-
-👉 https://github.com/magysil/cowork-social/tree/main/qa  
+🔹 **[QA Saucedemo](https://github.com/magysil/QA-Saucedemo)** – Automatización E2E con Cypress (login, carrito, checkout)  
+🔹 **[Cowork Social - QA](https://github.com/magysil/cowork-social/tree/main/qa)** – Plan de pruebas + casos de prueba + reporte de bugs  
+🔹 **[API Testing Ecommerce](https://github.com/magysil/api-testing-ecommerce)** – Pruebas de API REST con Postman, Newman y reportes HTML
 
 ---
 
-### 🔹 E-commerce Testing (SauceDemo)
-📌 Automatización E2E (Login, Carrito, Checkout)  
-📌 Buenas prácticas (beforeEach, comandos custom)  
-📌 Validaciones de UI y navegación  
+## 📊 GitHub Stats
 
-👉 https://github.com/magysil/QA-Saucedemo  
+![Magally's GitHub stats](https://github-readme-stats.vercel.app/api?username=magysil&show_icons=true&theme=default&hide=stars&count_private=true)
 
----
-## 📊 Lo que aporto como QA
-
-✅ Validación de flujos críticos de negocio  
-✅ Identificación temprana de bugs  
-✅ Comunicación efectiva con equipos dev  
-✅ Enfoque en experiencia de usuario (UX)  
-✅ Mentalidad analítica y atención al detalle  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magysil&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magysil&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magysil&layout=compact&hide=html,css)
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- Mejores prácticas de automatización
-- Testing avanzado de APIs
-- Estrategias de testing en entornos ágiles
+- ✅ Pruebas de API avanzadas (Newman, collections)
+- ✅ Automatización de flujos complejos en Cypress
+- ✅ Estrategias de testing en entornos ágiles
 
 ---
 
+## 📫 Contacto
 
-## 📫 Contact
-
-📧 magalysilvabello@gmail.com  
-💼 https://www.linkedin.com/in/magallys/  
-
----
-
-<p align="center">
-  ⭐ <em>"La calidad no es un acto, es un hábito."</em>
-</p>
+📧 **magalysilvabello@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/magallys/)  
+🐙 [GitHub](https://github.com/magysil)
